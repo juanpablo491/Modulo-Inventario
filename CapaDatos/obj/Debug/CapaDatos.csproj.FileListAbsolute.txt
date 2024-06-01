@@ -1,0 +1,9 @@
+E:\InventarioYVentas\CapaDatos\bin\Debug\CapaDatos.dll
+E:\InventarioYVentas\CapaDatos\bin\Debug\CapaDatos.pdb
+E:\InventarioYVentas\CapaDatos\bin\Debug\CapaEntidad.dll
+E:\InventarioYVentas\CapaDatos\bin\Debug\CapaEntidad.pdb
+E:\InventarioYVentas\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+E:\InventarioYVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+E:\InventarioYVentas\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+E:\InventarioYVentas\CapaDatos\obj\Debug\CapaDatos.dll
+E:\InventarioYVentas\CapaDatos\obj\Debug\CapaDatos.pdb

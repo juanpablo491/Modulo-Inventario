@@ -1,0 +1,6 @@
+E:\InventarioYVentas\CapaEntidad\bin\Debug\CapaEntidad.dll
+E:\InventarioYVentas\CapaEntidad\bin\Debug\CapaEntidad.pdb
+E:\InventarioYVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.AssemblyReference.cache
+E:\InventarioYVentas\CapaEntidad\obj\Debug\CapaEntidad.csproj.CoreCompileInputs.cache
+E:\InventarioYVentas\CapaEntidad\obj\Debug\CapaEntidad.dll
+E:\InventarioYVentas\CapaEntidad\obj\Debug\CapaEntidad.pdb
